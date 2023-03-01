@@ -1,3 +1,4 @@
+
 A survey of Brazilian states' and municipalities' transparency and open data portals, as well as institutional websites, obtained from several public data sources.
 
 Este texto também está disponível em português: 🇧🇷[LEIAME.md](LEIAME.md).
